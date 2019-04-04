@@ -1,1 +1,1 @@
-Siin on näha originaalne Wordify failistruktuur. 
+Siin on näha algne Wordify failistruktuur. 
